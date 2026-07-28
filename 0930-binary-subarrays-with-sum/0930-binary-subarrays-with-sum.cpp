@@ -1,23 +1,27 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
+    int atMost(vector<int>& nums, int goal){
         int left = 0;
         int sum = 0;
-        int needed;
-        int count = 0;
-        unordered_map<int,int> hash;
-        
-        hash[0] = 1;
+        int subArrayCount = 0;
+
+        if(goal < 0){
+            return 0;
+        }
+
         for(int right = 0; right < nums.size(); right++){
             sum += nums[right];
-            needed = sum - goal;
 
-            if(hash[needed]){
-                count += hash[needed];
+            while(goal < sum){
+                sum -= nums[left];
+                left++;
             }
-            hash[sum] ++; 
-
+            subArrayCount += (right - left + 1);
         }
-        return count;
+        return subArrayCount;
+    }
+
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+       return atMost(nums,goal) - atMost(nums,goal-1);
     }
 };

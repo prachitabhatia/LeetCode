@@ -18,15 +18,13 @@ public:
                 left ++;
             }
 
-            copyLeft = left;
-            tempOdd = countOdd;
-            while(tempOdd == k && copyLeft <= right){
-                countNice ++;
-                if(nums[copyLeft] %2 != 0){
-                    tempOdd--;
+            if(countOdd == k){
+                copyLeft = left;
+                while(nums[copyLeft] %2 == 0){
+                    countNice++;
+                    copyLeft++;
                 }
-
-                copyLeft ++;
+                countNice++;
             }
             
         }

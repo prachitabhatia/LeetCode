@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachitabhatia/LeetCode/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prachitabhatia/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
@@ -100,9 +101,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachitabhatia/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/prachitabhatia/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachitabhatia/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/prachitabhatia/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

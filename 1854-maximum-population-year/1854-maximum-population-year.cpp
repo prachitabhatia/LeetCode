@@ -1,30 +1,24 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        int length, birth;
-        map<int,int> hash;
-
+        int arr[101]={0};
         for(int i = 0; i < logs.size(); i++){
-            length = logs[i][1] - logs[i][0];
-            birth = logs[i][0];
-            for(int j = 0; j < length; j++){
-                hash[birth]++;
-                birth++;
-            }
+            arr[logs[i][0]-1950]++;
+            arr[logs[i][1]-1950]--;
         }
-
-        int maxValue = 0;
-        for(auto [key,value] : hash){
-            maxValue = max(maxValue, value);
+        for(int i = 1; i < 101; i++){
+            arr[i] = arr[i] + arr[i-1];
         }
-
+        
+        int maxPopulationIndex = 0;
         int maxPopulation = 0;
-        for(auto[key,value]:hash){
-            if(value==maxValue){
-                maxPopulation = key;
-                break;
+        
+        for(int i = 0; i < 101; i++){
+            if(arr[i] > maxPopulation){
+                maxPopulationIndex = i + 1950;
+                maxPopulation = arr[i];
             }
         }
-        return maxPopulation;
+        return maxPopulationIndex;
     }
 };

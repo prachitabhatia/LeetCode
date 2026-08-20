@@ -8,7 +8,7 @@ public:
 
         for(auto i : nums){
             prefixSum += i;
-            if(hash.find(prefixSum - k) != hash.end()){
+            if(hash[prefixSum - k]){
                 count += hash[prefixSum - k];
             }
             hash[prefixSum]++;

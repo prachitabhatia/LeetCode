@@ -1,6 +1,6 @@
 int calPoints(char** operations, int operationsSize) {
     
-    int stack[1000];
+    int stack[operationsSize];
     int top = -1;
 
     for(int i = 0; i < operationsSize; i++){

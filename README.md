@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/prachitabhatia/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prachitabhatia/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/prachitabhatia/LeetCode/tree/master/1854-maximum-population-year) |
+| [2536-increment-submatrices-by-one](https://github.com/prachitabhatia/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/prachitabhatia/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prachitabhatia/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/prachitabhatia/LeetCode/tree/master/1854-maximum-population-year) |
+| [2536-increment-submatrices-by-one](https://github.com/prachitabhatia/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/prachitabhatia/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/prachitabhatia/LeetCode/tree/master/1314-matrix-block-sum) |
+| [2536-increment-submatrices-by-one](https://github.com/prachitabhatia/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 ## Stack
 |  |
 | ------- |

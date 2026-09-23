@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prachitabhatia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prachitabhatia/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/prachitabhatia/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prachitabhatia/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/prachitabhatia/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachitabhatia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prachitabhatia/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -143,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/prachitabhatia/LeetCode/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/prachitabhatia/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prachitabhatia/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Matrix
 |  |
@@ -178,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prachitabhatia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/prachitabhatia/LeetCode/tree/master/0682-baseball-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

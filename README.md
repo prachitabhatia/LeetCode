@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/prachitabhatia/LeetCode/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/prachitabhatia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prachitabhatia/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/prachitabhatia/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prachitabhatia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prachitabhatia/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/prachitabhatia/LeetCode/tree/master/1314-matrix-block-sum) |
 | [2536-increment-submatrices-by-one](https://github.com/prachitabhatia/LeetCode/tree/master/2536-increment-submatrices-by-one) |
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prachitabhatia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/prachitabhatia/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

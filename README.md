@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/prachitabhatia/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/prachitabhatia/LeetCode/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/prachitabhatia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prachitabhatia/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/prachitabhatia/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/prachitabhatia/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/prachitabhatia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm

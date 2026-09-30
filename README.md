@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prachitabhatia/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prachitabhatia/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/prachitabhatia/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/prachitabhatia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prachitabhatia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prachitabhatia/LeetCode/tree/master/0143-reorder-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prachitabhatia/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prachitabhatia/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/prachitabhatia/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/prachitabhatia/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/prachitabhatia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prachitabhatia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prachitabhatia/LeetCode/tree/master/0143-reorder-list) |

@@ -12,6 +12,7 @@ class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
         ListNode* temp = head;
+        ListNode* middleNode = head;
         int count = 0;
         int middle;
 
@@ -21,10 +22,9 @@ public:
         }
         middle = count/2;
 
-        temp = head;
         for(int i = 1; i <= middle; i++){
-            temp = temp -> next;
+            middleNode = middleNode -> next;
         }
-        return temp;
+        return middleNode;
     }
 };

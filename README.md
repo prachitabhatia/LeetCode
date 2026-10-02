@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/prachitabhatia/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/prachitabhatia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prachitabhatia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/prachitabhatia/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prachitabhatia/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachitabhatia/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachitabhatia/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/prachitabhatia/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/prachitabhatia/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/prachitabhatia/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prachitabhatia/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachitabhatia/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prachitabhatia/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prachitabhatia/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prachitabhatia/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1854-maximum-population-year](https://github.com/prachitabhatia/LeetCode/tree/master/1854-maximum-population-year) |
 ## Linked List
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/prachitabhatia/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/prachitabhatia/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/prachitabhatia/LeetCode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->

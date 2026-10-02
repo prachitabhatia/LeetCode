@@ -2,7 +2,7 @@ class Solution {
 public:
     int firstUniqChar(string s) {
 
-        unordered_map<int,int> hash;
+        int hash[26] = {0};
 
         int n = s.size();
 

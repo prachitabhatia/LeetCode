@@ -3,24 +3,37 @@ public:
     int countStudents(vector<int>& students, vector<int>& sandwiches) {
 
         int n = students.size();
-        int eaten = 0;
-        int count = 0; //how many consecutive students have rejected the sandwich on top.
 
-        while(!students.empty() && count < students.size()){
-            if(students[0] == sandwiches[0]){
-                students.erase(students.begin());
-                sandwiches.erase(sandwiches.begin());
-                eaten++;
-                count = 0;
+        int count0 = 0;
+        int count1 = 0;
+
+        for(int i = 0; i < n; i++){
+            if(students[i] == 0){
+                count0++;
             }
             else{
-                int temp = students[0];
-                students.erase(students.begin());
-                students.push_back(temp);
-                count++;
+                count1++;
             }
-            
         }
-        return n-eaten;
+
+        for(int i = 0; i < n; i++){
+            if(sandwiches[i] == 1){
+                if(count1 == 0){
+                    return n-i;
+                }
+                else if(count1 > 0){
+                    count1--;
+                }
+            }
+            else if(sandwiches[i] == 0){
+                if(count0 == 0){
+                    return n-i;
+                }
+                else{
+                    count0--;
+                }
+            }
+        }
+        return 0;
     }
 };

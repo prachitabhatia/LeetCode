@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prachitabhatia/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/prachitabhatia/LeetCode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prachitabhatia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/prachitabhatia/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prachitabhatia/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/prachitabhatia/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -238,9 +239,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/prachitabhatia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/prachitabhatia/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/prachitabhatia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/prachitabhatia/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/prachitabhatia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

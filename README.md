@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prachitabhatia/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/prachitabhatia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/prachitabhatia/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachitabhatia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prachitabhatia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/prachitabhatia/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
@@ -240,11 +242,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/prachitabhatia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/prachitabhatia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/prachitabhatia/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/prachitabhatia/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/prachitabhatia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/prachitabhatia/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
